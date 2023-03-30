@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-
+/*Clase que recibe un archivo y realiza una copia del mismo.*/
 public class CopiaDeSeguridad {
 	private File fileIn;
 	private File fileOut;
